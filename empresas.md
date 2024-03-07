@@ -11,6 +11,6 @@
 5. Quando?
     - 
 6. Como?
-    - 
+    - através do uso das tecnologias JavaScript, Node.Js, React, CSS, HTML.
 7. Quanto?
    - Vamos ganhar conhecimento e experiência.

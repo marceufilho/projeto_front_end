@@ -5,9 +5,9 @@
 2. Quem? 
     - Uma pessoa nao tecnica deve conseguir usar o sistema 
 3. Onde?
-    -
+    - Em um site Front End em uma API na Internet
 4. Porque?
-    -
+    - 
 5. Quando?
     - 
 6. Como?

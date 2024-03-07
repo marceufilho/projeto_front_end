@@ -1,4 +1,4 @@
-## Plataforma Dosimagem
+# Plataforma Dosimagem
 
 1. O que?
     - Frontend do controle interno do fluxo de trabalho da Dosimagem

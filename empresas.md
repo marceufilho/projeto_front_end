@@ -9,7 +9,7 @@
 4. Porque?
     - Hoje o sistema é muito tecnico e uma pessoa sem conhecimento do sistema proprio da empresa não censegue usar. A usabilidade dele é ruim até pra quem conhece. Confuso, não entrega a informação de maneira organizada.
 5. Quando?
-    - 
+    - Durante a aula de Projeto de Front-End
 6. Como?
     - através do uso das tecnologias JavaScript, Node.Js, React, CSS, HTML.
 7. Quanto?

@@ -13,4 +13,4 @@
 6. Como?
     - através do uso das tecnologias JavaScript, Node.Js, React, CSS, HTML.
 7. Quanto?
-   - Vamos ganhar conhecimento e experiência.
+   - Na tentativa de finalizar o sistema, otimizando e deixando ele pronto.

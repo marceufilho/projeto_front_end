@@ -1,13 +1,13 @@
 # Requisitos
 ## Requisitos em linguagem natural
 1. *Quem é o usuário?*
-    - Funcionário da dosimagem sem conhecimento de tecnologia. Exemplo: Estagiário de Administração.
+    - Funcionário da dosimagem sem conhecimento de tecnologia. Exemplo: Estagiário de Administração ou uma simples secretária.
 2. *Quem é o cliente?*
-    - Hospitais.
+    - Hospitais e clinicas médicas especializadas na área.
 2. *O problema:*
-    - Interface muito pouco amigável. Django default admin site.
+    - Interface muito pouco amigável e de pouco intendimento. Django default admin site.
 3. *Objetivo:*
-    - Tornar mais intuitivo o uso do sistema.
+    - Tornar mais intuitivo o uso do sistema e simples para o uso de todos usuários.
 <hr>
 
 ### Proposta da equipe balança mas não cai pro software

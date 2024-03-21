@@ -13,7 +13,7 @@
 ### Proposta da equipe balança mas não cai pro software
 - A primeira interface que o usuário terá acesso é uma pagina similar a um kanban.
     - ***Primeiro quadro do Kanban***: Novos clientes que estão todos processos pendentes.
-    - ***Segundo Quadro do Kanban***: Processo de calibração da maquina do cliente feito.
+    - ***Segundo Quadro do Kanban***: Processo de calibração da maquina do cliente realizado.
     - ***Terceiro Quadro do Kanban***: Download dos dados do **PACIENTE DO CLIENTE** e de seus exames anexados. Aqui também terá um quadro com quantos pacientes já foram concluídos e quantos faltam.
     - ***Quarto Quadro do Kanban***: Anexo do relatório da Dosimagem para cada paciente. Finalização do processo.
 - Todos os quadros terão links para paginas próprios e ações para passar de um quadro para o outro.

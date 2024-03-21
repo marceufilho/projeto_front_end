@@ -23,4 +23,4 @@
         - *Ação necessária para ir do segundo pro terceiro Kanban*: 100% dos pacientes terem seus downloads feitos.
     - ***Terceiro Kanban:*** Figura igual ao primeiro Kanban mas com a diferença o contador para relatórios entregues para paciente.
         - *Ação necessária para ir do segundo pro terceiro Kanban:* 100% dos pacientes terem seus relatórios anexados.
-    - ***Quarto Kanban:*** Processo 100% finalizado
+    - ***Quarto Kanban:*** Processo 100% finalizado.

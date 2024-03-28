@@ -20,10 +20,10 @@
 - **Pós-condição:** O serviço é oficialmente contratado e o cliente recebe uma confirmação de contratação.
 
 ### Solicitação de Orçamento:
-- **Usuário:** 
-- **Pré-condição:** 
-- **Ação:** 
-- **Pós-condição:** 
+- **Usuário:** Hospital, Clínica.
+- **Pré-condição:** O cliente acessa a plataforma e está autenticado.
+- **Ação:** O cliente seleciona o serviço desejado e preenche os detalhes para solicitar um orçamento.
+- **Pós-condição:** O pedido de orçamento é enviado para a empresa.
 
 ### Geração de Orçamento:
 - **Usuário:** 

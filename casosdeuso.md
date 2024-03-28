@@ -32,7 +32,7 @@
 - **Pós-condição:** 
 
 ### Revisão de Solicitações de Orçamento:
-- **Ator:** 
-- **Pré-condição:** 
-- **Ação:** 
-- **Pós-condição:** 
+- **Ator:** Funcionário do sistema.
+- **Pré-condição:** O funcionário acessa a seção de solicitações de orçamento.
+- **Ação:** O funcionário revisa as solicitações, avaliando os serviços solicitados e os detalhes fornecidos pelo cliente.
+- **Pós-condição:** O funcionário toma uma decisão sobre a viabilidade da solicitação de orçamento.

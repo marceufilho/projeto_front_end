@@ -16,8 +16,8 @@
 ### Contratação de Serviços:
 - **Usuário:** Hospitais, Clinica
 - **Pré-condição:** O cliente revisa e aceita o orçamento fornecido pela empresa
-- **Ação:**
-- **Pós-condição:** 
+- **Ação:** O cliente seleciona o serviço desejado e confirma a contratação
+- **Pós-condição:** O serviço é oficialmente contratado e o cliente recebe uma confirmação de contratação.
 
 ### Solicitação de Orçamento:
 - **Usuário:** 

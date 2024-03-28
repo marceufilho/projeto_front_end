@@ -14,9 +14,9 @@
 - **Pós-condição:** O cliente pode revisar informações detalhadas sobre cada serviço e sua aplicabilidade.
 
 ### Contratação de Serviços:
-- **Usuário:** 
-- **Pré-condição:** 
-- **Ação:** 
+- **Usuário:** Hospitais, Clinica
+- **Pré-condição:** O cliente revisa e aceita o orçamento fornecido pela empresa
+- **Ação:**
 - **Pós-condição:** 
 
 ### Solicitação de Orçamento:

@@ -26,10 +26,10 @@
 - **Pós-condição:** O pedido de orçamento é enviado para a empresa.
 
 ### Geração de Orçamento:
-- **Usuário:** 
-- **Pré-condição:** 
-- **Ação:** 
-- **Pós-condição:** 
+- **Usuário:**  Empresa de Serviços de Imagem
+- **Pré-condição:** A empresa recebe uma solicitação de orçamento.
+- **Ação:** A empresa revisa os detalhes da solicitação e calcula o custo do serviço.
+- **Pós-condição:** - Um orçamento é gerado e enviado ao cliente.
 
 ### Revisão de Solicitações de Orçamento:
 - **Ator:** Funcionário do sistema.

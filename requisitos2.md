@@ -57,7 +57,7 @@
     - O usuario pode inputar o nome de uma empresa no buscador e retorna em qual fase se encontra 
     - O usuario pode clicar no nome da empresa nos quadros e deve ser direcionado para pagina de mesmo nome do kanban
 - **Pagina Pendentes**: 
-    - Usuario pode clicar em começão e o botão passa a empresa para o quadro de calibração na home 
+    - Usuario pode clicar em começar e o botão passa a empresa para o quadro de calibração na home 
 - **Pagina Calibração**:
     - O usuario pode clicar no botão para copiar as informações de calibração
     - o usuario pode clicar no botão de anexo para baixar os arquivos

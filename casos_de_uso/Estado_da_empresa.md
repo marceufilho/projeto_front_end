@@ -1,7 +1,7 @@
-|Nome|Estado da empresa|
+|Nome| Estado da Empresa|
 |---|---|
-|Ator|Funcionário Dosimagem|
-|Descrição|Este caso de uso descreve o estado atual em que a empresa esta passando.|
-|Pré-condição|O funcionário tem credenciais válidas para acessar o sistema de saúde; O sistema de saúde está funcionando corretamente; Há conexão com a internet para acessar o sistema.|
-|Fluxo Principal|O funcionário autorizado acessa o sistema; O funcionário irá checar o status dos clientes; O funcionário seleciona a opção de clientes; O sistema exibe uma interface com os clientes que ainda estao pendentes; O funcionário atualiza o arquivo do cliente; O sistema vai atualizar e mostrar o cliente como atualizado ou pronto.|
-|Pós-condição|O funcionário recebe um arquivo contendo as informações dos pacientes e vai atualizar o status;O arquivo é baixado com sucesso pelo funcionário.|
+|Ator| Funcionário Dosimagem|
+|Descrição| Este caso de uso descreve o processo pelo qual um funcionário da DosImagem pode acessar e visualizar o estado atual da empresa através do sistema. Ele fornece uma visão geral das informações relevantes sobre o funcionamento e desempenho da empresa.|
+|Pré-condição| O funcionário tem credenciais válidas para acessar o sistema de saúde.|
+|Fluxo Principal| O funcionário autorizado acessa o sistema de saúde e seleciona a opção estado da empresa”. O sistema apresenta uma tela com informações sobre o status atual da empresa, incluindo dados como download de calibragem e download de pacientes pendentes e finalizados. O funcionário também pode alterar e atualizar as pendências.|
+|Pós-condição| O funcionário vai ter uma visão detalhada e atualizada do estado da empresa.|

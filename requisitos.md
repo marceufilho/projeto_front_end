@@ -1,26 +1,15 @@
-# Requisitos
-## Requisitos em linguagem natural
-1. *Quem é o usuário?*
-    - Funcionário da dosimagem sem conhecimento de tecnologia. Exemplo: Estagiário de Administração ou uma simples secretária.
-2. *Quem é o cliente?*
-    - Hospitais e clinicas médicas especializadas na área.
-2. *O problema:*
-    - Interface muito pouco amigável e de pouco intendimento. Django default admin site.
-3. *Objetivo:*
-    - Tornar mais intuitivo o uso do sistema e simples para o uso de todos usuários.
-<hr>
-
-### Proposta da equipe balança mas não cai pro software
-- A primeira interface que o usuário terá acesso é uma pagina similar a um kanban.
-    - ***Primeiro Quadro do Kanban***: Novos clientes que estão todos processos pendentes.
-    - ***Segundo Quadro do Kanban***: Processo de calibração da maquina do cliente realizado.
-    - ***Terceiro Quadro do Kanban***: Download dos dados do **PACIENTE DO CLIENTE** e de seus exames anexados. Aqui também terá um quadro com quantos pacientes já foram concluídos e quantos faltam.
-    - ***Quarto Quadro do Kanban***: Anexo do relatório da Dosimagem para cada paciente. Finalização do processo.
-- Todos os quadros terão links para paginas próprios e ações para passar de um quadro para o outro.
-    - ***Primeiro Kanban:*** Ao clicar no nome do cliente será aberto uma pagina com todas as informações de calibração do sistema da Dosimagem e o arquivo para download das imagens de calibração.
-        - *Ação necessária para mudar do primeiro quadro pro segundo*: Clicar em um botão que a calibragem foi feita. POP up para confirmação da ação.
-    - ***Segundo Kanban:*** A figura da empresa terá um contador embaixo com quantos pacientes já foi feito os downloads dos dados e foram concluídos com confirmação do usuário.
-        - *Ação necessária para ir do segundo pro terceiro Kanban*: 100% dos pacientes terem seus downloads feitos.
-    - ***Terceiro Kanban:*** Figura igual ao primeiro Kanban mas com a diferença o contador para relatórios entregues para paciente.
-        - *Ação necessária para ir do segundo pro terceiro Kanban:* 100% dos pacientes terem seus relatórios anexados.
-    - ***Quarto Kanban:*** Processo 100% finalizado.
+# Requisitos funcionais
+**Definições:**
+- Paciente: Cliente do horizontal
+- Cliente: Empresa contratante da Dosimagem
+- Usuário: Funcionário Dosimagem que usa o sistema
+---
+- RF1: O sistema deve informar ao usuário em que processo cada empresa está
+- RF2: O usuário deve ser capaz de procurar imputando o nome da empresa e deve retornar a empresa e o estagio do processo que se encontra.
+- RF3: O usuário deve ser capaz de fazer os downloads dos documentos de calibração do sistema
+- RF4: O usuário deve ser capaz de copiar as informações de cada paciente do sistema
+- RF5: O usuário deve ser capaz de fazer o download dos documentos do paciente
+- RF6: O sistema deve atualizar automaticamente o estagio da empresa após o usuário confirmar a finalização da tarefa
+- RF7: O usuário deve ser capaz de começar o processo de cada uma das empresas.
+- RF8: O usuário deve ser capaz de anexar o laudo da Dosimagem para cada paciente.
+- RF9: O sistema deve apenas autorizar o usuário a concluir uma tarefa após os respectivos downloads da tarefa serem feitos.

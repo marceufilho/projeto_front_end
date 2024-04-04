@@ -12,3 +12,5 @@
 4. [Anexar Relatórios](https://github.com/marceufilho/projeto_front_end/blob/AP1/prototipos_de_tela/anexar_relatorios.jpg)
 5. [Etapa do cliente](https://github.com/marceufilho/projeto_front_end/blob/AP1/prototipos_de_tela/estado_empresa.jpg)
 
+## Requisitos
+1. [Requisitos](https://github.com/marceufilho/projeto_front_end/blob/AP1/requisitos.md)

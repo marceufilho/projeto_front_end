@@ -1,4 +1,5 @@
 # Projeto Dosimagem
+O objetivo do projeto é organizar o fluxo de trabalho interno da Dosimagem para a prescrição de laudos. Dando agilidade e organização a empresa.
 ## Casos de uso
 1. [Calibragem](https://github.com/marceufilho/projeto_front_end/blob/inicio-casos-uso/casos_de_uso/calibragem.md)
 2. [Download Pacientes](https://github.com/marceufilho/projeto_front_end/blob/inicio-casos-uso/casos_de_uso/DownloadPacientes.md)
